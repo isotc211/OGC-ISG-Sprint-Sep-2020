@@ -1,6 +1,6 @@
 :title: Interoperable Simulation and Gaming Sprint Engineering Report
 
-:initiative_short_name: ISG Sprint
+:initiative_short_name: ISG-Sprint
 
 :docReference: OGC 20-087
 
@@ -11,7 +11,7 @@
 :workingGroup: SWG/DWG for Review: Interoperable Simulation and Gaming DWG
 
 :category: OGC Public Engineering Report
-:publicationDate: YYYY-MM-DD
+:publicationDate: 2021-01-226
 :approvalDate: 2020-12-11
 :referenceURLID: ID
 :copyrightYear: 2021
